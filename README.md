@@ -1,2 +1,2 @@
 # RiP-Planner
-RiP: RTD based (Ri)sk Aware Planner
+RiP: Reachability based (Ri)sk Aware Planner
